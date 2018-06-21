@@ -1,0 +1,1 @@
+C:\bitbucket\esi\test-projects\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache

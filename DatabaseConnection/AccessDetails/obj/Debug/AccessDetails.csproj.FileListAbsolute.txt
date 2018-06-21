@@ -1,0 +1,10 @@
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\bin\Debug\AccessDetails.dll.config
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\bin\Debug\AccessDetails.dll
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\bin\Debug\AccessDetails.pdb
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\bin\Debug\EntityFramework.dll
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\bin\Debug\EntityFramework.SqlServer.dll
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\bin\Debug\EntityFramework.xml
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\bin\Debug\EntityFramework.SqlServer.xml
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\obj\Debug\AccessDetails.csprojResolveAssemblyReference.cache
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\obj\Debug\AccessDetails.dll
+C:\bitbucket\esi\test-projects\DatabaseConnection\AccessDetails\obj\Debug\AccessDetails.pdb
